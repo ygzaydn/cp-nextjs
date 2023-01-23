@@ -8,7 +8,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export"
+    "export": "next build && next export && node formatter.js"
   },
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^1.0.43",
@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.7",
+    "fs-extra": "^11.1.0",
     "imagemin-mozjpeg": "^9.0.0",
     "next-optimized-images": "^2.6.1"
   }
