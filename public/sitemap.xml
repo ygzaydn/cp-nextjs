@@ -1,0 +1,48 @@
+<xml encoding="UTF-8">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+    <loc>https://cargopanel.co/</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>1.00</priority>
+    </url>
+    <url>
+    <loc>https://cargopanel.co/e-ihracat-lojistigi</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://cargopanel.co/nasil-calisir</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://cargopanel.co/sss</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://cargopanel.co/hakkimizda</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://cargopanel.co/iletisim</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://app.cargopanel.co/login</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+    <url>
+    <loc>https://app.cargopanel.co/register</loc>
+    <lastmod>2023-01-18</lastmod>
+    <priority>0.80</priority>
+    </url>
+</urlset>
+</xml>
